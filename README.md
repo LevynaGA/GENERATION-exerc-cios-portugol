@@ -1,1 +1,1 @@
-# GENERATION-exerc-cios-portugol
+# GENERATION-exercícios-portugol
