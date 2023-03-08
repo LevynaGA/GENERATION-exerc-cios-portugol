@@ -19,7 +19,7 @@ programa
    	}
       
    senao {
-   	escreva("A soma de A e B é igual a C.")
+   	escreva("A soma de A e B é igual a C. caso")
    	}
       
    
